@@ -22,7 +22,7 @@ class ContactColumn extends Component {
         return (
             <div class="contact-column">
                 <div class="content">
-                    <form action="https://formspree.io/mattrice@umich.com" method="POST">
+                    <form action="https://formcarry.com/s/rkBc9hauM" method="POST" accept-charset="UTF-8">
                         <p>Name:</p>
                         <input class="text-input"
                                type="text"
